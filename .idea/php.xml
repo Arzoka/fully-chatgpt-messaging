@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="config" value="$PROJECT_DIR$/../Documents/Projects/smg/psalm.xml" />
+    <option name="findUnusedCode" value="true" />
+    <option name="findUnusedSuppress" value="true" />
+    <option name="showInfo" value="true" />
+    <option name="transferred" value="true" />
+  </component>
+</project>
